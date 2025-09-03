@@ -1,5 +1,5 @@
 # fannp2026
-This repository contains all of the files needed for the 2026 FANNP National Neonatal Nurse Practitioner Symposium
+This repository contains all of the files needed for the 2026 FANNP National Neonatal Nurse Practitioner Symposium session titled:
 
 *"AI Interactive Workshop: Track A, Session 13b"*  
 

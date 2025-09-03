@@ -1,6 +1,6 @@
 % Data import and visualization demonstrattion
-% Written by Zach Vesoulis for "Artificial Intelligence in Critical Care Medicine"
-% Workshop presented at the 2025 CNH Annual Symposium
+% Written by Zach Vesoulis
+% Workshop originally presented at the 2025 CNH Annual Symposium
 % Published under GPL-3.0 license
 
 % If running within Octave environment, load the statistics package before running this code
